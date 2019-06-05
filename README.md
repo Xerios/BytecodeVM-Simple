@@ -4,14 +4,14 @@ A simple stack based Bytecode Interpreter / VM for Unity and C#
 All in one file, but includes plenty comments on how things work.
 This isn't a fully fledged framework but it should give you a solid base to play around with bytecode machines.
 
-### Features / Included instructions
+## Features / Included instructions
 
 - Simple function call ( Hello World )
 - Setting bytes to stack
 - Simple function with two parameters ( Add )
 - Printing a float using 4 bytes ( either using stack or without )
 - Wait ( Pauses execution for a while )
-- Repeat
+- Repeat ( Jumps to first "code line" and clears the stack )
 
 ## Code
 ```C#
