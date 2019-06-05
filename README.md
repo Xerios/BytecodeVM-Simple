@@ -45,6 +45,6 @@ This isn't a fully fledged framework but it should give you a solid base to play
 
 ---
 
-This project is for all the poor souls who're looking for simple scripting solution for Unity. Take it as an inspiration.
+This project is for all the poor souls who're looking for a simple scripting solution for Unity. Take it as an inspiration.
 
 Brought to you with ❤ by [UnityList](https://UnityList.com)
